@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 071b5e9c-d17c-9e09-ee5d-641665ab9f10
 resourcetype: Document
 title: exercise5.pdf
 uid: 7b176d13-7e67-cf80-6721-6403a83bfd05
