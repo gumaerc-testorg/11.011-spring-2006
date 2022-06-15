@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains negotiation exercises.
-file: /media/courses/11-011-the-art-and-science-of-negotiation-spring-2006/4d8dadcbea6e7cb7938821681e2aa908_exercise_instr.pdf
+file: /courses/11-011-the-art-and-science-of-negotiation-spring-2006/4d8dadcbea6e7cb7938821681e2aa908_exercise_instr.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: exercise_instr.pdf
 uid: 4d8dadcb-ea6e-7cb7-9388-21681e2aa908
 ---
+This resource contains negotiation exercises.
+
