@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information about the course goals and organization,
+  readings, assignments and evaluation of learning and participation.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 6a786b07-2054-37d4-8716-3fc13098c6b4
 ---

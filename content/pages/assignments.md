@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section includes problem sets, negotiation exercises on role play
+  simulations, and description of the final project.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 071b5e9c-d17c-9e09-ee5d-641665ab9f10
 ---
@@ -9,23 +14,23 @@ This course requires completion of three problem sets, participation in a series
 Problem Sets
 ------------
 
-Problem Set 1 ([PDF]({{< baseurl >}}/resources/pset1))
+Problem Set 1 ({{% resource_link 533ccae9-016d-9138-5261-8a2fd3d1b3fa "PDF" %}})
 
-Problem Set 2 ([PDF]({{< baseurl >}}/resources/pset2))
+Problem Set 2 ({{% resource_link eaf0a7c7-acaa-ec70-f03b-9a6b7577ef7e "PDF" %}})
 
-Problem Set 3 ([PDF]({{< baseurl >}}/resources/pset3))
+Problem Set 3 ({{% resource_link 9f8393f0-3993-be47-9949-0c2a1523eff9 "PDF" %}})
 
 Negotiation Exercises
 ---------------------
 
 Throughout the course you will participate in role-playing negotiation exercises. You will be assigned a role, partnered with one or more other students, given a case with instructions and confidential information, and asked to prepare and negotiate. When cases are handed out ahead of time, you should come to class prepared to negotiate. In general, we will have a greater range of experience to draw on and a richer discussion if you prepare individually, rather than with a partner or in a study group. Think of it as contributing to a bigger sample for our collective research project and controlling cross-case influences. As a group, you are dependent on each other to suspend disbelief and animate the exercises vividly and plausibly and provide a rich base of experience for us to draw on. Abstracts of scenarios from the Harvard Law School [Program on Negotiation Clearinghouse](http://www.pon.harvard.edu/store/) are provided below.
 
-Negotiation Exercise Instructions ([PDF]({{< baseurl >}}/resources/exercise_instr))
+Negotiation Exercise Instructions ({{% resource_link 4d8dadcb-ea6e-7cb7-9388-21681e2aa908 "PDF" %}})
 
 Exercises
 ---------
 
-Appleton vs. Baker ([PDF]({{< baseurl >}}/resources/exercise1))
+Appleton vs. Baker ({{% resource_link 42bc4e9d-a9b5-b780-e2c8-607963b2c9de "PDF" %}})
 
 Elmtree House
 
@@ -33,29 +38,29 @@ Malta Bargain with Great Britain
 
 Patriot, Parts A and B
 
-Sally Soprano ([PDF]({{< baseurl >}}/resources/exercise5))
+Sally Soprano ({{% resource_link 7b176d13-7e67-cf80-6721-6403a83bfd05 "PDF" %}})
 
 Table Talk
 
-HackerStar ([PDF]({{< baseurl >}}/resources/exercise7))
+HackerStar ({{% resource_link ad4cc1d0-dfb3-7c34-14fd-c50946b2f1be "PDF" %}})
 
-Redstone ([PDF]({{< baseurl >}}/resources/exercise8))
+Redstone ({{% resource_link 2517fddb-8a8a-2c87-3f7a-2d7fa4e8de2d "PDF" %}})
 
 The Vineyard
 
-Theotis Wiley ([PDF]({{< baseurl >}}/resources/exercise10))
+Theotis Wiley ({{% resource_link e694b7f1-73a3-feb4-7728-5994ea1a54fa "PDF" %}})
 
 Re-engineering Game
 
 Zabian Game
 
-Weathers and Evans ([PDF]({{< baseurl >}}/resources/exercise13))
+Weathers and Evans ({{% resource_link 2e2afd82-e412-a98d-d1a1-4d3054914317 "PDF" %}})
 
 Intersoft Argentina, Parts A and B
 
-Three-party Coalition Exercise ([PDF]({{< baseurl >}}/resources/exercise15))
+Three-party Coalition Exercise ({{% resource_link 283e3a39-9734-ed71-59d7-d9bde146dc1a "PDF" %}})
 
-Harborco ([PDF]({{< baseurl >}}/resources/exercise16))
+Harborco ({{% resource_link 93363e25-6022-ce14-0ee2-91036fe4a0e9 "PDF" %}})
 
 Guidelines for Final Project
 ----------------------------
