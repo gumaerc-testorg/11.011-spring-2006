@@ -6,6 +6,7 @@ file: /courses/11-011-the-art-and-science-of-negotiation-spring-2006/283e3a39973
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: exercise15.pdf
 uid: 283e3a39-9734-ed71-59d7-d9bde146dc1a
 ---
 This resource contains materials for the scenario, major leassons, additional notes and mechanics.
-

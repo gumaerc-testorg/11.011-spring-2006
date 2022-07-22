@@ -5,6 +5,7 @@ file: /courses/11-011-the-art-and-science-of-negotiation-spring-2006/ad4cc1d0dfb
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: exercise7.pdf
 uid: ad4cc1d0-dfb3-7c34-14fd-c50946b2f1be
 ---
 This resource contains materials for the scenario and application.
-

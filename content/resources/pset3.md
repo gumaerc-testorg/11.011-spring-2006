@@ -6,6 +6,7 @@ file: /courses/11-011-the-art-and-science-of-negotiation-spring-2006/9f8393f0399
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: pset3.pdf
 uid: 9f8393f0-3993-be47-9949-0c2a1523eff9
 ---
 This resource contains problems related to analyze a sequence of communication and its significance for negotiation.
-

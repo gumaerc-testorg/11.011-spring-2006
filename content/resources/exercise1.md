@@ -6,6 +6,7 @@ file: /courses/11-011-the-art-and-science-of-negotiation-spring-2006/42bc4e9da9b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: exercise1.pdf
 uid: 42bc4e9d-a9b5-b780-e2c8-607963b2c9de
 ---
 This resource gives information about  scenario from the harvard law school program on negotiation clearinghouse.
-
