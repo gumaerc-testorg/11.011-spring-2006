@@ -3,6 +3,7 @@ content_type: resource
 description: This resource gives information about  scenario from the harvard law
   school program on negotiation clearinghouse.
 file: /courses/11-011-the-art-and-science-of-negotiation-spring-2006/42bc4e9da9b5b780e2c8607963b2c9de_exercise1.pdf
+file_size: 21400
 file_type: application/pdf
 learning_resource_types:
 - Assignments
