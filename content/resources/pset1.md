@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problems based on the topics patriot national
   insurance versus byrnes, byrnes, and townsend.
-file: /courses/11-011-the-art-and-science-of-negotiation-spring-2006/533ccae9016d913852618a2fd3d1b3fa_pset1.pdf
+file: /ol-ocw-studio-app/courses/11-011-the-art-and-science-of-negotiation-spring-2006/533ccae9016d913852618a2fd3d1b3fa_pset1.pdf
 file_size: 28608
 file_type: application/pdf
 learning_resource_types:
