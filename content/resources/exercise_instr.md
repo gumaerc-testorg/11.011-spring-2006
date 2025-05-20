@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains negotiation exercises.
-file: /ol-ocw-studio-app/courses/11-011-the-art-and-science-of-negotiation-spring-2006/4d8dadcbea6e7cb7938821681e2aa908_exercise_instr.pdf
+file: /courses/11-011-the-art-and-science-of-negotiation-spring-2006/4d8dadcbea6e7cb7938821681e2aa908_exercise_instr.pdf
 file_size: 11324
 file_type: application/pdf
 learning_resource_types:
