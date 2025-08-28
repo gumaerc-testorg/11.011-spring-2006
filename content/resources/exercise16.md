@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains materials for the scenario, mechanics, process
   themes and major leasssons.
-file: /courses/11-011-the-art-and-science-of-negotiation-spring-2006/93363e256022ce140ee291036fe4a0e9_exercise16.pdf
+file: /ol-ocw-studio-app/courses/11-011-the-art-and-science-of-negotiation-spring-2006/93363e256022ce140ee291036fe4a0e9_exercise16.pdf
 file_size: 18102
 file_type: application/pdf
 learning_resource_types:
